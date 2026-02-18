@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    // Declaração de variáveis para duas cidades
+    // Variáveis para duas cidades
     char nome1[50], nome2[50];
     unsigned long int pop1, pop2;
 
